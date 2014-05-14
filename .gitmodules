@@ -1,0 +1,6 @@
+[submodule "aciddb-java-client"]
+	path = aciddb-java-client
+	url = git://github.com/vmrob/aciddb-java-client
+[submodule "deps/aciddb-java-client"]
+	path = deps/aciddb-java-client
+	url = git://github.com/vmrob/aciddb-java-client
